@@ -1,0 +1,32 @@
+{
+  "name": "will_you_make_me_happy",
+  "authors": [
+    "Kseniya Baluk <kseniya.baluk@gmail.com>"
+  ],
+  "description": "Neural network experiment",
+  "main": "index.html",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "^3.3.6",
+    "jquery": "~2.2.4",
+    "underscore": "~1.8.3",
+    "lodash": "^4.6.1",
+    "js-marker-clusterer": "*",
+    "handlebars": "^4.0.5",
+    "moment": "^2.13.0",
+    "animate.css": "^3.5.1",
+    "classie": "^1.0.1",
+    "hover": "Hover#^2.0.2",
+    "bootstrap": "^3.3.6"
+  }
+}
